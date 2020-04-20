@@ -130,7 +130,7 @@ class classification():
         print(cf)
         
     
-s
+
         
 model=classification()
 model.pre_process_data()
@@ -139,6 +139,9 @@ model.pre_process_data()
 #model.navie_bayes()
 #model.KNN()
 #model.svm()
+
+
+#Accuracy of KNN > logistic_regression > navie_bayes > SVM
 
 
         
